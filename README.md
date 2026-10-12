@@ -25,7 +25,6 @@ An academic project focused on examining the `file` software through static anal
 The project report provides the detailed scope, methodology, observations, and supporting evidence.
 
 - **Report:** [Read the project report (PDF)](./projects/01-static-analysis-file/report.pdf)
-- **Project documentation:** [Read the overview](./projects/01-static-analysis-file/README.md)
 
 ### 2. Capture the Flag (CTF): Binary Analysis and Exploitation Techniques
 
@@ -36,7 +35,6 @@ An academic CTF project involving binary analysis, debugging, security tools, an
 Tools used across the project include Ghidra, `file`, `checksec`, GDB, Netcat, Python 3, pwntools, Requests, threading, ROPgadget, `readelf`, and Detect It Easy (DIE).
 
 - **Report:** [Read the project report (PDF)](./projects/02-ctf-binary-analysis/report.pdf)
-- **Project documentation:** [Read the overview](./projects/02-ctf-binary-analysis/README.md)
 
 ### 3. Architecture Risk Analysis of a Conceptual System
 
@@ -45,7 +43,6 @@ Tools used across the project include Ghidra, `file`, `checksec`, GDB, Netcat, P
 An academic assessment focused on analyzing the security risks of a conceptual system architecture. The report documents the scope, analysis, and conclusions of the exercise.
 
 - **Report:** [Read the project report (PDF)](./projects/03-architecture-risk-analysis/report.pdf)
-- **Project documentation:** [Read the overview](./projects/03-architecture-risk-analysis/README.md)
 
 ## Technical Areas
 
